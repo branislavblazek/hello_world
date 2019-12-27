@@ -1,2 +1,6 @@
 # hello_world
-just another repository
+
+Hi humans!
+
+I am a boy from Zilina, Slovakia, who likes programming!
+
